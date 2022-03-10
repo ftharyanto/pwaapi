@@ -1,0 +1,23 @@
+{
+"products": [
+{"id":1,"name":"Coatimundi, ring-tailed","category":"Purple"},
+{"id":2,"name":"Bulbul, black-fronted","category":"Goldenrod"},
+{"id":3,"name":"Wild turkey","category":"Violet"},
+{"id":4,"name":"Curlew, black","category":"Crimson"},
+{"id":5,"name":"Starling, superb","category":"Orange"},
+{"id":6,"name":"Red-tailed phascogale","category":"Fuscia"},
+{"id":7,"name":"Indian giant squirrel","category":"Maroon"},
+{"id":8,"name":"Black-backed magpie","category":"Green"},
+{"id":9,"name":"Caracara, yellow-headed","category":"Blue"},
+{"id":10,"name":"Impala","category":"Green"},
+{"id":11,"name":"Brown lemur","category":"Khaki"},
+{"id":12,"name":"Cat, miner's","category":"Khaki"},
+{"id":13,"name":"Red-billed hornbill","category":"Khaki"},
+{"id":14,"name":"Whip-tailed wallaby","category":"Red"},
+{"id":15,"name":"Steller sea lion","category":"Turquoise"},
+{"id":16,"name":"Red-winged blackbird","category":"Khaki"},
+{"id":17,"name":"Stick insect","category":"Blue"},
+{"id":18,"name":"Possum, golden brush-tailed","category":"Turquoise"},
+{"id":19,"name":"African porcupine","category":"Goldenrod"},
+{"id":20,"name":"Laughing kookaburra","category":"Puce"}
+]
